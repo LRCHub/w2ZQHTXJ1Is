@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "グレーゾーンの私たち",
+  "base_artist": "171",
+  "createdAt": "2026-03-05T15:01:53.184077Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グレーゾーンの私たち",
+      "artist": "171",
+      "has_synced": false,
+      "path": "select/pl_01_グレーゾーンの私たち_171.txt"
+    }
+  ]
+}
